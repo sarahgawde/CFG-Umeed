@@ -1,0 +1,37 @@
+Team*.zip
+*.pem
+*.ppk
+*.crt
+*.key
+*.ovpn
+frontend/UmeedCFG/.idea/misc.xml
+frontend/UmeedCFG/.idea/jarRepositories.xml
+frontend/UmeedCFG/gradle/wrapper/gradle-wrapper.properties
+frontendnew/build.gradle
+frontendnew/settings.gradle
+frontendnew/gradle
+
+
+# Django #
+*.log
+*.pot
+*.pyc
+_pycache_
+db.sqlite3
+media
+
+# Backup files # 
+*.bak
+
+.vscode/* 
+!.vscode/settings.json 
+!.vscode/tasks.json 
+!.vscode/launch.json 
+!.vscode/extensions.json 
+.history
+.vs/
+
+#secrets
+secret.json
+
+venv
